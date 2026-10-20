@@ -1,0 +1,315 @@
+*This is the B.Sc. in Cybersecurity 2021 Course Program in the University of Bahrain
+
+Program Components:
+Course Type:
+University Requirement (UR): Credits: 11
+College Requirement (UR): Credits: 25
+Major Requirement (UR): Credits: 75
+Major Elective (ME): Credits: 12
+General Studies Elective (GSE): Credits:9
+Total Credits (CRD): 132
+
+- Students must select four courses from the Major Elective (ME) ITCY 4XX list (List 1).
+- Student must select three General Studies Electives, distributed according to the following:
+- Students must select two Business courses: Financial Accounting I (ACC 112), Organization and management (MGT 230), Marketing Management (MKT 261), which are included in the general studies elective (Business Courses) below.
+- Students must select one General Studies Elective from Humanities and Social Science
+*
+
+*
+Year 1 - Semester 1
+Syntax for Courses: Course Code - Course Title - Course Hours (Lecture - Practical - Credits) - Course Type - Pre Requisite - Major GPA
+ITIS 103 - Fundamentals of Information Systems - (3-2-3) - MR - No Pre Requisite - Yes
+ITCS 113 - Computer Programming I - (3- 2- 3) - CR - No Pre Requisite- Yes
+MATHS 101 - Calculus I - (3 - 0 - 3) - CR - No Pre Requisite - No
+ARAB 110 - Arabic Language Skills - (3 - 0 - 3) - UR - No Pre Requisite - No
+ENGL 154 - Language Development I - (3 - 0 - 3) - CR - No Pre Requisite - No
+
+Year 1 - Semester 2
+Syntax for Courses: Course Code - Course Title - Course Hours (Lecture - Practical - Credits) - Course Type - Pre Requisite - Major GPA
+ITCS 114 - Computer Programming II - (3 - 2 - 3) - CR - ITCS 113 - Yes
+ITNE 110 - Introduction to Computer & Network Technology - (3 - 2- 3) - MR - No Pre Requisite- Yes
+ENGL 155 - Language Development II - (3 - 0 - 3) - CR - ENGL 154 - No
+BUS XXX - Business Elective I - (3 - 0 - 3) - GSE - No Pre Requisite - No
+HIST 122 - Modern History of Bahrain and Citizenship - (3 - 0 - 3) - UR - No Pre Requisite- No
+
+Year 2 - Semester 3 (Another Name: Year 2 - Semester 1)
+Syntax for Courses: Course Code - Course Title - Course Hours (Lecture - Practical - Credits) - Course Type - Pre Requisite - Major GPA
+ITCY 201 - Fundamentals of Cybersecurity - (3 - 2 - 3) - MR - ITCS 113 & ITNE 110 - Yes
+ITIS 213 - Database Management Systems - (3 - 2 - 3) - MR - ITIS 103 & ITCS 113 - Yes
+ITCS 214 - Data Structures - (3 - 2 - 3 )- CR - ITCS 114 - Yes
+ITNE 231 - Computer Networks I - (3 - 2 - 3) - MR - ITCS 113 & ITNE 110 - Yes
+ENGL 219 - Technical Report Writing - (3 - 0 - 3) - CR - ENGL 155 - No
+HRLC 107 - Human Rights - (2 - 0 - 2) - UR - No Pre Requisite - No
+
+Year 2 - Semester 4 (Another Name: Year 2 - Semester 2)
+Syntax for Courses: Course Code - Course Title - Course Hours (Lecture - Practical - Credits) - Course Type - Pre Requisite - Major GPA
+ITIS 252 - Cloud Computing I - (3 - 2 - 3) - MR - ITNE 110 - Yes
+ITIS 266 - IT Project Management I - (3 - 2 - 3) - MR - ITIS 103 - Yes
+ITCS 254 - Discrete Structures I - (3 - 2 - 3) - MR - ITCS 113 & MATHS 101 - Yes
+ITNE 240 - Network Operating Systems - (3 - 2 - 3) - MR - ITCS 214 & ITNE 231 - Yes
+ITNE 241 - Computer Networks II - (3 - 2 - 3) - MR - ITNE 231 - Yes
+BUS XXX - Business Elective II - (3 - 0 - 3) - GSE - No Pre Requisite - No
+*
+Year 3 - Semester 5 (Another Name: Year 3 - Semester 1)
+Syntax for Courses: Course Code - Course Title - Course Hours (Lecture - Practical - Credits) - Course Type - Pre Requisite - Major GPA
+ITNE 341 - Network Security I - (3 - 2 - 3) - MR - ITNE 241 - Yes
+ITNE 352 - Network Programming - (3 - 2 - 3) - MR - ITCS 214 & ITNE 231 - Yes
+ITCS 333 - Internet Software Development - (3 - 2 - 3) - MR - ITIS 213 - Yes
+ITCS 342 - Design of Algorithms - (3 - 2 - 3)- MR - ITCS 214 & ITCS 254 - Yes
+STAT 273 - Probability and Statistics - (3 - 0 - 3) - CR - MATHS 101 - No
+GSE XXX  - Humanities and Social Sciences Elective - (3 - 0 - 3) - GSE - No Pre Requisite- No
+
+Year 3 - Semester 6 (Another Name: Year 3 - Semester 2)
+Syntax for Courses: Course Code - Course Title - Course Hours (Lecture - Practical - Credits) - Course Type - Pre Requisite - Major GPA
+ITCY 351 - Cryptography - (3 - 2 - 3) - MR - ITNE 341 - Yes
+ITCY 354 - Secure Software Engineering - (3 - 2 - 3) - MR - ITIS 266 & ITNE 352 -Yes
+ITIS 362 - Governance and Management of Enterprise IT - (3 - 2 - 3) - MR - ITIS 103 - Yes
+ITIS 322 - Entrepreneurship and Digital Innovation - (3 - 2 - 3) - MR - ITIS 266 - Yes
+ISLM 101 - Islamic Culture - (3 - 0 - 3) - UR - No Pre Requisite- No
+
+Training Requirement
+Syntax for Courses: Course Code - Course Title - Course Hours (Lecture - Practical - Credits) - Course Type - Pre Requisite - Major GPA
+ITCY 482 - Internship in Cybersecurity -  (0 - 3 - 1) - CR Training - Pass 85 Credits - Yes
+
+Year 4 - Semester 7 (Another Name: Year 4 - Semester 1)
+Syntax for Courses: Course Code - Course Title - Course Hours (Lecture - Practical - Credits) - Course Type - Pre Requisite - Major GPA
+ITCY 401 - Information Security - (3 - 2 - 3) - MR - ITCY 351 - Yes
+ITCY 470 - IT Auditing and Business Continuity - (3 - 2 - 3) - MR - ITCY 201 - Yes
+ITCY 480 - Cyberethics - (3 - 2 - 3) - MR - ITCY 201 - Yes
+ITCY 4XX - ITCY Elective 1 - (3 - 2 - 3) - ME - As per ME list - Yes
+ITCY 4XX - ITCY Elective 2 - (3 - 2 - 3) - ME - As per ME list - Yes
+ITCY 499 - Senior Project - (0 - 6 - 3) - CR - Passing 85 Cr and ENGL 219 - Yes
+
+Year 4 - Semester 8 (Another Name: Year 4 - Semester 2)
+Syntax for Courses: Course Code - Course Title - Course Hours (Lecture - Practical - Credits) - Course Type - Pre Requisite - Major GPA
+ITCY 410 - Digital Forensics - (3 - 2 - 3) - MR - ITCY 201 & ITIS 362 -Yes
+ITCY 460 - Security Risk Assessment and Countermeasures - (3 - 2 - 3) -MR - ITCY 201 & ITIS 362- Yes
+ITCY 481 - Ethical Hacking - (3 - 2 - 3) - MR - ITCY 351 & ITNE 352 - Yes
+ITCY 4XX - ITCY Elective 3 - (3 - 2 - 3) - ME - As per ME list - Yes
+ITCY 4XX - ITCY Elective 4 - (3 - 2 - 3) - ME - As per ME list - Yes
+*
+Major Elective Courses - These courses can be considered the ITCY4XX Elective courses, the student can choose 4 electives from this list depending on availability
+Syntax for Courses: Course Code - Course Title - Course Hours (Lecture - Practical - Credits) - Course Type - Pre Requisite - Major GPA
+ITCY 490 - Selected Topics in Cybersecurity I - (3 - 2 - 3) - ME - Department Approval - Yes
+ITCY 491 - Selected Topics in Cybersecurity II - (3 - 2 - 3) - ME - Department Approval - Yes
+ITCY 492 - Current Topics in Cybersecurity - (3 - 2 - 3) - ME - Department Approval - Yes
+ITCY 420 - Secure Coding - (3 - 2 - 3) - ME - ITCY 354 - Yes
+ITCY 431 - Secure Information Storage and Management - (3 - 2 - 3) - ME - ITIS 252 & ITIS 362 - Yes
+ITCY 432 - Internet of Things (IoT) Security - (3 - 2 - 3) - ME - ITNE 341 - Yes
+ITCY 440 - Wireless Network Security - (3 - 2 - 3) - ME - ITNE 341 - Yes
+ITCY 441 - Network Management and Administration - (3 - 2 - 3) - ME - ITNE 241 - Yes
+ITCY 450 - Information Security Management - (3 - 2 - 3) - ME - ITCY 401 - Yes
+ITCY 493 - Blockchain Technology and Applications - (3 - 2 - 3) - ME - ACC 112 & ITNE 341 - Yes
+ITCY 494 - Cloud Security - (3 - 2 - 3) - ME - ITIS 252 & ITCY 351 - Yes
+
+
+General Studies Elective (Business Courses) (BUS XXX)
+Note: Students should select two Business courses from the following list:
+Syntax for Courses: Course Code - Course Title - Course Hours (Lecture - Practical - Credits) - Course Type - Pre Requisite - Major GPA
+ACC 112 - Financial Accounting I - (3 - 0 - 3) - GSE - No Pre Requisite- No
+MGT 230 - Organization and Management - (3 - 0 - 3) - GSE - No Pre Requisite- No
+MKT 261 - Marketing Management - (3 - 0 - 3) - GSE - No Pre Requisite - No
+*
+General Studies Elective (Humanities and Social Sciences)
+Note: Students should select one Humanities ans Social Sciences course from the following list:
+Syntax for Courses: Course Code - Course Title - Course Hours (Lecture - Practical - Credits) - Course Type - Pre Requisite
+FREN 141 - French I - (3 - 0 - 3) - GSE - No
+CHL 101 - Introduction to Chinese Language - (3 - 0 - 3) - GSE - No
+EDPS 144 - Psychology of Learning and Memory - (3 - 0 - 3) - GSE - No
+ART 133 - Fundamentals of Music and its Appreciation - (3 - 0 - 3) - GSE - No
+ART 141 - Drawing and Painting - (2 - 1 - 3) - GSE - No
+ART 221 - Traditional Music of Bahrain and its Application - (3 - 0 - 3) - GSE - No
+EDAR 126 - Playing on Piano and Org - (3 - 0 - 3) - GSE - No
+JAPN 101 - Japanese Level I - (3 - 0 - 3) - GSE - No
+GERM 101 - Introduction to German - (3 - 0 - 3) - GSE - No
+KL 101 - Korean Language I - (3 - 0 - 3) - GSE - No
+TL 101 - Turkish Language - (3 - 0 - 3) - GSE - No
+ENGL 130 - Introduction to Literature - (3 - 0 - 3) - GSE - No
+PSYC 103 - Introduction to Psychology - (3 - 0 - 3) - GSE - No
+PSYC 120 - Psychology of Marriage - (3 - 0 - 3) - GSE - No
+PSYC 211 - Educational Psychology - (3 - 0 - 3) - GSE - No
+SOCIO 161 - Introduction to Sociology - (3 - 0 - 3) - GSE - No
+SOCIO 181 - Introduction to Anthropology - (3 - 0 - 3) - GSE - No
+SOCIO 191 - Citizenship, Identity and Globalization - (3 - 0 - 3) - GSE - No
+SOCIO 224 - Sociology of Health - (3 - 0 - 3) - GSE - No
+SOCIO 226 - Sociology of Arabian Gulf - (3 - 0 - 3) - GSE - No
+HISTO 212 - Contemporary History of The Arab World - (3 - 0 - 3) - GSE - No
+HISTO 281 - Landmarks of Islamic Civilization - (3 - 0 - 3) - GSE - No
+ARAB 141 - Modern Arabic Literature - (3 - 0 - 3) - GSE - No
+ARAB 242 - Arabic Poetry in The Renaissance Period - (3 - 0 - 3) - GSE - No
+ISLM 114 - Quranic Sciences - (3 - 0 - 3) - GSE - No
+ISLM 136 - Biography of The Prophet - (3 - 0 - 3) - GSE - No
+ISLM 141 - Introduction to Shari'a - (3 - 0 - 3) - GSE - No
+ISLM 252 - Islamic Doctrine - (3 - 0 - 3) - GSE - No
+LAW 101 - Introduction to Legal Studies - (3 - 0 - 3) - GSE - No
+LAW 102 - History of Law - (3 - 0 - 3) - GSE - No
+LAW 106 - Constitutional Law I - (3 - 0 - 3) - GSE - No
+PHYCS 181 - Elementary Astronomy - (2 - 3 - 3) - GSE - No
+GSE XXX - Other Electives - (X - X - 3) - GSE - Department Approval
+*
+Here we have a detailed explanation of each course, the syntax is:
+Course Code:- Course Title:-
+Detailed Explanation
+
+University Requirements (UR) Courses Descriptions
+Course Code: ARAB 110 Course Title: Arabic Language Skills
+This course focuses on basic Arabic skills including form, function, and meaning. It also helps the student to appreciate and understand structures and approach them from a critical point of view, through various genres in literature.
+
+Course Code: HIST 122 Course Title: Modern History of Bahrain and Citizenship
+Spatial identity of Bahrain: Brief history of Bahrain until the 18th century; the historical roots of the formation of the national identity of Bahrain since the 18th century; the modern state and evolution of constitutional life in Bahrain; the Arabic and Islamic dimensions of the identity of Bahrain; the core values of Bahrain s society and citizenship rights (legal, political, civil and economic); duties; responsibilities and community participation; economic change and development in Bahrain; Bahrain s Gulf, Arab and international relations.
+
+Course Code: HRLC 107 Course Title: Human Rights
+This course deals with the principles of human rights in terms of the definition of human rights, scope, sources with a focus on the International Bill of Human Rights; The Charter of the United Nations; Universal Declaration of Human Rights; The International Covenant on Economics, Social and Culture rights; Convention against Torture and other Cruel, Inhuman or Degrading Treatment or Punishment; Mechanics and the Constitutional Protection of Rights and Public Freedoms in Kingdom of Bahrain.
+
+Course Code: ISLM 101 Course Title: Islamic Culture
+An introduction to the general outline and principles of Islamic culture, its general characteristics, its relationships with other cultures, general principles of Islam in beliefs, worship, legislation and ethics.
+
+
+College Requirements (CR) Courses Descriptions
+Course Code: ITCS 113 Course Title: Computer Programming I
+This course introduces problem solving and fundamental programming concepts and techniques implemented by a high-level programming language. Topics include primitive and compound data types, syntax, semantics, expressions, assignment, input, output, conditional and iterative control structures, functions.
+
+Course Code: ITCS 114 Course Title: Computer Programming II
+This course covers key concepts of object-oriented programming. Topics include object-oriented design, encapsulation, event handlers, memory management, arrays, exception handlers, searching algorithms, programming applications.
+
+Course Code: ITCS 214 Course Title: Data Structures
+This course covers data structures and their implementations in an object-oriented programming language. Topics include subtyping, abstract base class, lists, stacks, queues, trees, graphs, hash tables, strategies for choosing appropriate data structure.
+
+Course Code: ENGL 154 Course Title: Language Development I
+The first of a series of three integrated language courses designed specifically for IT/CS and CE majors. Special attention is given to IT related vocabulary, reading texts and writing.
+
+Course Code: ENGL 155 Course Title: Language Development II
+ENGL 155 is the second of three integrated language courses designed for IT students. The level is upper intermediate.
+
+Course Code: ENGL 219 Course Title: Technical Report Writing
+This course deals with professional and technical writing. It looks at the theoretical and practical aspects of technical report writing. It also teaches the vocabulary and language structures typically found in report writing with a view to producing a full-length formal research report.
+
+Course Code: MATHS 101 Course Title: Calculus I
+Algebra. Functions and graphs. Trigonometry. Conic sections. Limits and continuity. Derivatives and integrals. Applications of derivatives which include mean value theorem, extrema of functions and optimization. Definite integrals and the Fundamental Theorem of Calculus.
+
+Course Code: STAT 273 Course Title: Probability and Statistics
+Descriptive Statistics, Introduction to probability and probability distributions. Some of probability Densities, Sampling distributions. Central limit theorem. t and F distributions. Estimation. Tests of hypotheses. Goodness of fit tests. Regression and correlation.
+*
+
+Major Requirements (MR) Courses Descriptions
+Course Code: ITIS 103 Course Title: Fundamentals of Information Systems
+This is a foundation course that introduces students to the definitions, concepts and tools used in the IS field. It focuses on discussing the business implications of information systems, social and ethical issues it creates, their relationship with organization activities and how they support e-Commerce, knowledge management and decisions making. Topics covered include: information systems in global business today, ethical and social issues in information system, achieving operational excellence and customer intimacy, e-commerce, building and managing systems, managing knowledge and collaboration, enhancing decision making.
+
+Course Code: ITNE 110 Course Title: Introduction to Computer and Network Technology
+This foundational course introduces basic computer and network theory, and component identification and function. Hardware Basics: Case, Motherboard, CPU, Cards, HDD, FDD, CD, Power supply, memory, etc. BIOS, CMOS, POST, Basic connections and troubleshooting, Operating systems, Important files (Win.ini, System.ini, config.sys, autoexec.bat, etc.), Registry, Upgrading; Networks glossary, OSI Model, Physical Media, Internet Backbones, Basic network troubleshooting.
+
+Course Code: ITCY 201 Course Title: Fundamentals of Cyber Security
+This course provides a general overview of cybersecurity. students will be introduced to the concept of cybersecurity governance and the organization s approach to protecting the organization s critical infrastructure from attack, damage, and misuse. Topics include an overview of cybersecurity frameworks; cybersecurity infrastructure; defense techniques, defense tactics and practices; cybersecurity safeguards, and defense in depth.
+
+Course Code: ITCS 254 Course Title: Discrete Structures I
+This course covers basic discrete structures that are backbones of computer science. Topics include logic, predicate calculus, proofs, sets, relations, functions.
+
+Course Code: ITIS 213 Course Title: Database Management Systems
+This course presents the fundamental concepts for designing, using, and implementing database systems. It includes extensive coverage of the relational model, relational algebra, and SQL. The course also covers data modeling using entity-relationship diagrams, and relational database design principles based on functional dependencies and normal forms.
+
+Course Code: ITIS 266 Course Title: IT Project Management I
+This course provides students with the basic principles of project management, including concepts of project initiating, planning, executing, monitoring, and controlling, and closing process groups. The course introduces the fundamentals of five project management areas: integration, scope, time, cost, and quality.
+
+Course Code: ITIS 252 Course Title: Cloud Computing I
+This course introduces the concepts of cloud computing as a new computing paradigm. Students will explore various terminologies, principles and applications of cloud computing. Topics covered include: classic data centers, virtualized data centers (VDCs), business continuity in VDCs, cloud infrastructure, cloud services such as Infrastructure as a Service (IaaS), Platform as a Service (PaaS), and Software as a Service (SaaS), cloud management, cloud security, and cloud migration considerations.
+
+Course Code: ITNE 231 Course Title: Computer Networks I
+Packet-Switched Networks. Protocol Layers. Application Layer. HTTP, FTP, Electronic Mail, DNS. Web Servers. Transport Layer: Multiplexing and Demultiplexing, Reliable Data Transfer and Congestion Control. Network Layer and Routing: The Internet Protocol (IP), IPv6, Multicast Routing and Mobility.
+
+Course Code: ITNE 240 Course Title: Network Operating Systems
+This course provides fundamentals of network operating systems and applications. Topics covered are Standards & Protocols, Addressing, Address Resolution, Network OS, File Systems, Intro to Linux, File Sharing, System Administration, Software installation, Network Services, Security.
+*
+Course Code: ITNE 241 Course Title: Computer Networks II
+Data and Signals, Signal transmission; Bandwidth Utilization; Transmission media and systems; Signal encoding; Interfacing; Data link control; Error detection and correction; Multiple Access; Ethernet; Multimedia networking.
+
+Course Code: ITCY 351 Course Title: Cryptography
+Basic of cryptographic systems, symmetric block ciphers (DES, AES, other contemporary symmetric ciphers), linear and differential cryptanalysis, perfect secrecy, public-key cryptography (RSA, discrete logarithms), algorithms for factoring and discrete logarithms, cryptographic protocols, hash functions, authentication, key management, key exchange, and signature schemes.
+
+Course Code: ITIS 322 Course Title: Entrepreneurship and Digital Innovation
+This course covers areas related to developing and managing technology-based new ventures. Topics covered include: role and personality of the entrepreneur, business planning, building and managing teams, digital innovative products, market evaluation and developing a business and marketing plan, legal issues including intellectual property, preparation of venture budgets, and raising finance.
+
+Course Code: ITCY 354 Course Title: Secure Software Engineering
+This course introduces students to the discipline of designing, developing, and testing secure and dependable software-based systems. It focuses on how to incorporate security in each phase and what are the techniques/approaches/tools to use to get software that is secure by default. Topics to be covered include Secure software development lifecycle, Low level and application related vulnerability analysis, Security requirement and secure design, Secure coding practices and software inspection, and Security testing.
+
+Course Code: ITIS 362 Course Title: Governance and Management of Enterprise IT
+This course provides students with the knowledge to become skilled in directing, planning, running, building and monitoring of Enterprise IT. Topics covered include: Introduction to Enterprise IT Management; strategic alignment of IT strategy to enterprise strategy, types of IT organizations and functions; organizational structures, Enterprise IT
+governance concepts and frameworks; concepts of measuring, governance enablers, reporting and controlling; outsourcing approaches.
+
+Course Code: ITCS 342 Course Title: Design of Algorithms
+This course covers techniques used to design and analyze algorithms. Topics include time and space complexity analysis of algorithms, brute force, divide-and conquer, recursive and sorting algorithms, greedy, dynamic programming, parallel algorithms, scheduling algorithms, and heuristics. A special focus is dedicated to real life applications in cybersecurity such as cryptography, digital forensics, data Integrity and authentication etc.
+
+Course Code: ITCS 333 Course Title: Internet Software Development
+This course exposes the key technologies underlying the World-Wide Web and the principles and tools that are used to develop dynamic web applications. Topics include web design technologies (HTML, CSS style sheets), current server- side programming, web server processing, database access, event-driven programming.
+
+Course Code: ITNE 341 Course Title: Network Security 1
+The course will cover the security topics in the following areas: Access control, simple authentication protocols, password-based security, ACLs and capabilities, multilevel and multilateral security, covert channels and inference control, firewalls and intrusion detection systems. Software: flows and malware, buffer overflows, viruses and worms,
+software reverse engineering, digitals rights management, secure software development and operating systems security.
+*
+Course Code: ITNE 352 Course Title: Network Programing
+This course introduces the basics of computer network programming. Topics include: designing and implementation of software for distributed systems (client/server and peer-to-peer), creating and managing sockets and interfaces, addressing, TCP and UDP programming, programming for web services (RESTful AP), message passing, securing connections, multithreading, remote procedure call, and remote object access.
+
+Course Code: ITCY 401 Course Title: Information Security
+This course covers the practices intended to maintain a secure infrastructure. It focuses on threat management and using business drivers to guide the cybersecurity activities. Topics include integrating cybersecurity risks with organization s risk management processes, best practices in dealing with complexity and uncertainty, protecting against advanced persistent threat (APT), Dynamics of Threats and Resilience, improving cybersecurity and resilience of critical infrastructure.
+
+Course Code: ITCY 410 Course Title: Digital Forensics
+This course introduces the fundamental concepts of digital forensics, topics include the principles and techniques for digital forensics investigation and the spectrum of available computer forensics tools. Students will learn about core forensics procedures to ensure the admissibility of evidence, as well as the legal and ethical implications. Lab work will cover forensic investigation on different file systems, and guide students through forensic procedures and review and analyze forensics reports.
+
+Course Code: ITCY 460 Course Title: Security Risk Assessment and Countermeasures
+This course examines information security as a risk management problem where the organization identifies information security risks, evaluates those risks, and makes risk mitigation and acceptance decisions given its resource constraints. The students will learn the foundational concepts in risk management and will be introduced to standard risk management approaches for identifying, analyzing, and responding to risk, as well as the tools and methodologies for metrics to monitor risk management activities.
+
+Course Code: ITCY 470 Course Title: IT Auditing and Business Continuity
+This course covers system audit and control concepts and practices. Topics covered include: risk assessments concepts in compliance with information systems audit standards and guidelines, types of audits to ensure that systems are protected and controlled, strategies to minimize risks, control objectives and controls related to audit planning, audit project management techniques and standards and procedures for the development and maintenance of the Business Continuity Plan (BCP) and testing methods.
+
+Course Code: ITCY 481 Course Title: Ethical Hacking
+Practice and methodology of ethical hackers are identified to provide the learners with an understanding of networks threats and possible attacks, ability to plan and apply penetration test, distinguish recommended countermeasures, and compose a penetration test report.
+
+Course Code: ITCY 482 Course Title: Internship in Cybersecurity
+The course is a fulltime internship training program whereby the student works in a Cybersecurity related environment that provides a comprehensive experience of the professional environment. The course provides an opportunity for gaining knowledge and application while being supervised by experienced professionals in various industries. The students are expected to gain new technical, interpersonal, and professional skills throughout this internship. The Internship should last for at least 8 weeks. The student should produce a report detailing their experience and observations through reflecting upon the lectures and labs taught in the university and linking them to the internship period.
+
+Course Code: ITCY 499 Course Title: Senior Project
+The student has to undertake and complete a research topic or develop a system under the supervision of a faculty member in order to probe in depth a specific problem in Cybersecurity. The student is expected to make a final project presentation before a committee.
+*
+
+Major Electives (MR) Courses Descriptions
+Course Code: ITCY 490 Course Title: Selected Topics in Cybersecurity I
+This course focuses on a particular topic or application in the Cybersecurity and related fields. The intention is to provide a rapid response to shifts in trends and advances in the Cybersecurity landscape and provides a focused and in-depth course on a particular topic, with topic and content changing on a regular basis. The course description is to be approved by the Department council upon offering.
+
+Course Code: ITCY 491 Course Title: Selected Topics in Cybersecurity II
+This course focuses on a particular topic or application in the Cybersecurity and related fields. The intention is to provide a rapid response to shifts in trends and advances in the Cybersecurity landscape and provides a focused and in-depth course on a particular topic, with topic and content changing on a regular basis. The course description is to be approved by the Department council upon offering.
+
+Course Code: ITCY 492 Course Title: Current Topics in Cybersecurity
+This course focuses on the latest trends and emerging topics in the Cybersecurity and related fields. The course content is changed with every offering. The course description is to be approved by the Department council upon offering.
+
+Course Code: ITCY 431 Course Title: Secure Information Storage and Management
+This course introduces fundamental concepts of secure Information Storage and Management. Students will learn how to identify and characterize the data that needs protection, and develop an understanding of the storage security foundations, and implementing protection and security measures to meet a wide range of requirements. Topics include: Securing the Storage Infrastructure, Evolution of Storage Technology and Architecture, Components of a Storage System Environment, Intelligent Storage System, Direct-Attached Storage, Network-Attached Storage, Content-Addressed Storage, and Storage Virtualization.
+
+Course Code: ITCY 450 Course Title: Information Security Management
+This course will provide the student with an understanding of the principles of information security management that are commonly used in business and be able to apply these principles for proper asset identification and valuation, Identifying and prioritizing information assets, Identifying and prioritizing threats to information assets, including evaluating the value of confidentiality, integrity, availability, and replacement of assets. Topics include Understanding Information Security Management Systems (found in the ISO/IEC 27001, ISO/IEC 27002, and ISO/IEC 27035 standards), Integrated threat management (ITM), and Planning for a Privacy Breach.
+
+Course Code: ITCY 432 Course Title: Internet of Things (IoT) Security
+This course aims to introduce the security of Internet of Things (IoT), the course focuses on security issues for IoT devices and systems. Topics covered Sensors and actuators in IoT, IoT standards and protocols, IoT Connectivity, the security techniques for IoT devices, Lightweight Cryptography, Programming of IoT devices, and Hardware security for IoT devices.
+
+Course Code: ITCY 440 Course Title: Wireless Network Security
+The Wireless Network Security course discusses the relevant wireless security technologies, vulnerabilities, and potential threats, and introduces the corresponding security standards and protocols, as well as provides solutions to security concerns. Security aspects of the following types of wireless networks is considered: Wireless Cellular Networks, Wireless Local Area Networks (WLANs), Bluetooth Networks and Communications and Wireless Sensor Networks (WSNs).
+*
+Course Code: ITCY 421 Course Title: Secure Coding
+This course explains the principles and practices for secure computing and writing secure software. Topics include code vulnerabilities, static code analysis, error handling, secure coding practices, secure I/O, race conditions and mediation, handling buffer overflow, and handling vulnerabilities in web and database programming.
+
+Course Code: ITCY 441 Course Title: Network Management and Administration
+The network management course is concerned with providing the principle background theory and practical skills that are vital to understand the tools that are necessary to manage and maintain the operation of computer networks. Network management protocols such as SNMP 1,2,3, RMON1, RMON2.
+
+Course Code: ITCY 493 Course Title: Blockchain Technology and Applications
+The course provides students the most important Blockchain concepts, the philosophy of decentralization behind blockchain, and recent development and technologies in the Blockchain environment. In addition, it covers the recent applications of Blockchain and its impacts.
+
+Course Code: ITCY 494 Course Title: Cloud Security
+This course covers in-depth knowledge in the field of cloud security. Topics include cloud security basics, Security of the cloud, Security in the cloud, security services, Securing the services, Authentication, Access control, Compliance, Incident Management & Troubleshooting.
+
+General Studies Electives (GSE) Business Courses Descriptions
+Course Code: ACC 112 Course Title: Financial Accounting I
+Students will be introduced to: Steps of the accounting cycle; analyzing and recording transactions; general journal; general ledger; trial balance; adjusting and closing entries; preparation of financial statements; accounting for merchandising operations; special journals and subsidiary ledgers; inventories and accounting for cash and receivables.
+
+Course Code: MGT 230 Course Title: Organization and Management
+This course presents an overview of management theories and practices and introduction to the study of organizational structures, management functions and processes within an action frame of reference. The course discusses about organization, planning and control systems, leadership and employee motivation, decision-making models and the management of change..
+
+Course Code: MKT 261 Course Title: Marketing Management
+This course covers in-depth knowledge in the field of cloud security. Topics include cloud security basics, Security of the cloud, Security in the cloud, security services, Securing the services, Authentication, Access control, Compliance, Incident Management & Troubleshooting.

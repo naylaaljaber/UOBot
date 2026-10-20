@@ -1,0 +1,137 @@
+*This is the B.Sc in  Computer Science 2024 course Program Components University
+
+Program Components:
+Course Type:
+University Requirement(UR): Credits: 11 
+College Requirement(CR): Credits: 23
+Major Support Requirement(MSR): Credits: 10
+Major Requirement (MR):Credits: 61
+Major Elective(ME):Credits: 12
+General Studies Elective(GSE):Credits: 10
+CR- Training (Internship): Credits: 3
+Total Credit (CRD): 130
+
+-Student must select four courses from Major Elective(ME) List.
+-Student must select three General Studies Electives according to the following:
+- One course must be selected from any field of science:
+the following courses are suggested:
+1. CHEMY101 (GENERAL CHEMISTRY I )
+2. BIOLS102 (GENERAL BIOLOGY I )
+3. PHYCS102 (GENERAL PHYSICS II ) the Pre-requisite for this course: PHYCS101
+- One course must be selected from Business College:
+the following courses are suggested:
+1. ACC112 (FINANCIAL ACCOUNTING )
+2. MGT230 (ORGANIZATION AND MANAGEMENT )
+3. MKT261 (MARKETING MANAGEMENT )
+4. ECON 140 (MICROECONIMICS)
+- One course must be selected from Humanities and Social Science 
+*
+
+*
+Year 1 - Semester 1
+Syntax for Courses: Course Code - Course Title - Course Hours (Lecture - Practical - Credits) - Course Type - Pre Requisite - Major GPA
+ITCE 101- Computer Technologies - (3-0-3) - MR - No Pre Requisite- Yes
+ITCS 106- Computer Programming I - (3-2-4) - CR - No Pre Requisite - Yes
+ENGL 157- English for Information Technology - (3-0-3) - CR - -No Pre Requisite- No
+MATHS 101- Calculus I (3-0-3) - CR - No Pre Requisite- No
+PHYCS 101- General Physics I - (3-3-4) - MSR - No Pre Requisite - No
+
+Year 1 - Semester 2
+Syntax for Courses: Course Code - Course Title - Course Hours (Lecture - Practical - Credits) - Course Type - Pre Requisite - Major GPA
+ITCS 107- Computer Programming II - (3-2-4) - CR - ITCS 106 - Yes
+GSE XXX- Science Elective - (X-X-4)- GSE - No Pre Requisite- No
+ARAB 110- Arabic Language Skills- (3-0-3) - UR - No Pre Requisite- No
+MATHS 102- Calculus II- (3-0-3) - MSR MATHS 101 -No
+
+Year 2 - Semester 3 (Another Name: Year 2 - Semester 1)
+Syntax for Courses: Course Code - Course Title - Course Hours (Lecture - Practical - Credits) - Course Type - Pre Requisite - Major GPA
+ISLM 101- Islamic Culture- (3-0-3) - UR - No Pre Requisite- No
+ITCS 214- Data Structures- (3-0-3) CR - ITCS 107- Yes
+STAT 273- Probability and Statistics- (3-0-3) -CR- MATHS 101- No
+ITNE 233-Computer Networks -(3-2-4)- MR- ITCS 106 & ITCE 101 -Yes
+ITCS 258- Discrete Structures- (3-0-3)- CR- ITCS 106 & MATHS 101 -Yes
+
+Year 2 - Semester 4 (Another Name: Year 2 - Semester 2)
+Syntax for Courses: Course Code - Course Title - Course Hours (Lecture - Practical - Credits) - Course Type - Pre Requisite - Major GPA
+ITCC 240- Fundamental of Cloud Computing- (3-0-3) - MR- ITCE 101 & ITCS 107 -Yes
+ITCS 223- Computer Architecture- (3-0-3) -MR- ITCS 214- Yes
+ITCS 285- Database Management Systems- (3-0-3)- MR- ITCS 214- Yes
+ENGL 219 -Technical Report Writing- (3-0-3)- CR- ENGL 157-No
+MATHS 211- Linear Algebra- (3-0-3)- MSR - MATHS 101 - No
+*
+Year 3 - Semester 5 (Another Name: Year 3 - Semester 1)
+Syntax for Courses: Course Code - Course Title - Course Hours (Lecture - Practical - Credits) - Course Type - Pre Requisite - Major GPA
+ITCS 347- Analysis and Design of Algorithms- (3-0-3)- MR - ITCS 214 & ITCS 258 -Yes
+ITCS 316- Human-Computer Interaction- (3-0-3)- MR- ITCS 214- Yes
+ITCS 333- Internet Software Development- (3-0-3)- MR- ITCS 285- Yes
+ITSE 389- Software Engineering I- (3-0-3)- MR- ITCS 285- Yes
+ITCS 396- Professional Issues and Ethics (3-0-3)- MR- ENGL 219- Yes
+GSE XXX- Business Free Elective -(3-0-3)- GSE -No Pre Requisite- No
+
+
+Year 3 - Semester 6 (Another Name: Year 3 - Semester 2)
+Syntax for Courses: Course Code - Course Title - Course Hours (Lecture - Practical - Credits) - Course Type - Pre Requisite - Major GPA
+ITCS 317- Formal Languages and Automata- (3-0-3)- MR - ITCS 214 & ITCS 258 -Yes
+ITCS 325- Operating Systems- (3-0-3)- MR-ITCS 223- Yes
+ITCS 303- Cryptography and Computer Security- (3-0-3)- MR-ITCS 258 &ITNE 233 - Yes
+HIST 122- Modern History of Bahrain and Citizenship- (3-0-3)- UR - No Pre Requisite -No
+ITCS 355- Machine Learning -(3-0-3)- MR-ITCS 214 &STAT 273 - Yes
+ITSE 489- Software Engineering II- (3-0-3)- MR- ITSE 389- Yes
+
+Training Requirement
+Syntax for Courses: Course Code - Course Title - Course Hours (Lecture - Practical - Credits) - Course Type - Pre Requisite - Major GPA
+ITCS 483- Industrial Training- (0-6-3)-CR Training- Pass 85 Credits-Yes
+
+Year 4 - Semester 7 (Another Name: Year 4 - Semester 1)
+Syntax for Courses: Course Code - Course Title - Course Hours (Lecture - Practical - Credits) - Course Type - Pre Requisite - Major GPA
+ITCS 428- Artificial Intelligence- (3-0-3) -MR- ITCS 347- Yes
+ITCS 433- Design of Programming Languages- (3-0-3)- MR- ITCS 317- Yes
+ITXX 4XX- ITXX Elective 1- (3-0-3)- ME- As per ME list-Yes
+ITXX 4XX- ITXX Elective 2- (3-0-3)- ME- As per ME list-Yes
+ITCS 498- Senior Project- (0-9-3)- MR- ENGL 219 & pass 85 credits -Yes
+
+Year 4 - Semester 8 (Another Name: Year 4 - Semester 2)
+Syntax for Courses: Course Code - Course Title - Course Hours (Lecture - Practical - Credits) - Course Type - Pre Requisite - Major GPA
+HRLC 107- Human Rights- (2-0-2)- UR -No Pre Requisite- No
+ITXX 4XX- ITXX Elective 3- (3-0-3)- ME- As per ME list-Yes
+ITXX 4XX- ITXX Elective 4- (3-0-3)- ME-As per ME list- Yes
+GSE XXX- Humanities / Social Sciences 3 0 3 GSE -No Pre Requisite- No
+ITCS 441- Parallel and Distributed Computing- (3-0-3)- MR- ITCS 325- Yes
+*
+Major Elective Courses
+Major Elective Courses - These courses can be considered the ITCY4XX Elective courses, the student can choose 4 electives from this list depending on availability
+Syntax for Courses: Course Code - Course Title - Course Hours (Lecture - Practical - Credits) - Course Type - Pre Requisite - Major GPA
+ITCS 400- IT-Based Entrepreneurship- (3-0-3) - ME- ITCS 396- Yes
+ITCS 416- Advanced Operating Systems- (3-0-3)- ME- ITCS 325- Yes
+ITCS 437- Computer Graphics- (3-0-3)- ME- ITCS 214 & MATHS 211 -Yes
+ITCS 443- Optimization Techniques- (3-0-3)- ME-ITCS 214 & MATHS 211-Yes
+ITCS 444- Mobile Application Development- (3-0-3)- ME- ITCS 333- Yes
+ITCS 449- Computer Vision- (3-0-3)- ME- ITCS 347 & STAT 273 -Yes
+ITCS 453- Multimedia and Hypermedia Systems- (3-0-3)- ME- ITCS 214- Yes
+ITCS 455- Semantic Web- (3-0-3) -ME-ITCS 333- Yes
+ITCS 457- Data Mining- (3-0-3)- ME- ITCS 285 & ITCS 347 -Yes
+ITCS 458- Big Data Analytics- (3-0-3)- ME- ITCS 258- Yes
+ITCS 461- Advanced Database Management Systems- (3-0-3)- ME- ITCS 285 -Yes
+ITCS 464- Information Retrieval -(3-0-3)- ME- ITCS 333- Yes
+ITCS 465- Numerical Computations- (3-0-3)- ME-ITCS 258 & MATHS 211 -Yes
+ITCS 484- Selected Topics in Computer Science I-(3-0-3)- ME-Department Approval - Yes
+ITCS 485- Selected Topics in Computer Science II- (3-0-3)- ME-Department Approval - Yes
+ITCS 496- Physical Implementation of DBMS- (3-0-3)- ME -ITCS 285- Yes
+ITSE 403- Software Testing and Quality Assurance- (3-0-3)- ME- ITSE 389- Yes
+ITSE 406- Software Project Management- (3-0-3)- ME- ITSE 389- Yes
+ITSE 476- Free and Open Source Software Development- (3-0-3)- ME- ITSE 389- Yes
+ITCC 434- Cloud Operations- (3-0-3)- ME- ITNE 233 &ITCC 240 &ITCS 325- Yes
+ITCC 441- Cloud Computing Architecture- (3-0-3)- ME- ITCC 240 &ITNE 233- Yes
+ITCC 442-Cloud Security- (3-0-3)- ME- ITCS 303- Yes
+ITCC 446-Cloud Development- (3-0-3)- ME- ITCC 240 & ITCS 285- Yes
+ITCY 410- Digital Forensics- (3-0-3)- ME- ITCS 303- Yes
+ITCY 420- Secure Coding- (3-0-3)- ME- ITCS 303 & ITSE 389- Yes
+ITCY 481- Ethical Hacking- (3-0-3)- ME- ITCS 303 & ITCS 333-Yes
+ITTS 401- IT Technical Selected Topics I- (3-0-3) -ME- Department Approval- Yes
+ITTS 402- IT Technical Selected Topics II- (3-0-3)- ME Department Approval -Yes
+ITTS 403- Cooperative Learning- (0-12-6)- ME Training- Department Approval & Co-requisite ITCS 498 - Yes
+
+
+
+
+

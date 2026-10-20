@@ -1,0 +1,11 @@
+[
+    {
+        "password": "$2b$12$wHrad1L/CGKE0vEl/FKhiuBo6NLprrPvJ5HLdMdukB1O0yl133UvW",
+        "student_data_path": "/scratch-beegfs/datasets/202105450/ollama/test/studentnewindex/student_data.json"
+    },
+    {
+        "password": "$2b$12$kN1B31cJw5vsh2zDYtugA.kuoAzmu.tt6EcW2zZ/FN4qR53rfD3z2",
+        "student_data_path": "/scratch-beegfs/datasets/202105450/ollama/test/studentnewindex/student2_data.json"
+    }
+]
+

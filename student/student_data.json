@@ -1,0 +1,45 @@
+{
+  "student_id": "202400123",
+  "name": "Ali Ahmed",
+  "major": "Cybersecurity",
+  "gpa": 2.85,
+  "total_credits_completed": 15,
+  "current_semester": "Year 1 - Semester 1",
+  "courses_completed": [
+    {
+      "course_code": "ITIS 103",
+      "course_title": "Fundamentals of Information Systems",
+      "grade": "B",
+      "credits": 3,
+      "semester": "Year 1 - Semester 1"
+    },
+    {
+      "course_code": "ITCS 113",
+      "course_title": "Computer Programming I",
+      "grade": "A",
+      "credits": 3,
+      "semester": "Year 1 - Semester 1"
+    },
+    {
+      "course_code": "MATHS 101",
+      "course_title": "Calculus I",
+      "grade": "D",
+      "credits": 3,
+      "semester": "Year 1 - Semester 1"
+    },
+    {
+      "course_code": "ARAB 110",
+      "course_title": "Arabic Language Skills",
+      "grade": "B+",
+      "credits": 3,
+      "semester": "Year 1 - Semester 1"
+    },
+    {
+      "course_code": "ENGL 154",
+      "course_title": "Language Development I",
+      "grade": "B+",
+      "credits": 3,
+      "semester": "Year 1 - Semester 1"
+    }
+  ]
+}

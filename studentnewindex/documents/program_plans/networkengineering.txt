@@ -1,0 +1,121 @@
+*This is the B.Sc. in Network Engineering 2021 Course Program in the University of Bahrain
+
+Program Components:
+Course Type:
+University Requirement(UR): Credits: 11
+College Requirement (CR): Credits: 25
+Major Support Requirement (MSR): Credits: 17
+Major Requirement (MR): Credits: 60
+Major Elective (ME): Credits: 15 
+General Studies Elective (GSE): Credits: 7
+Total Credit (CRD): 135
+
+-All students must select two courses from Major Elective (ME) List. Also, student must choose another 9 credit
+hours that is either the cooperative learning track, or the traditional track (senior project plus two ME courses).
+-Students must select two General Studies Electives according to the following:
+- One course must be selected from the two science courses:
+1. CHEMY 101 (GENERAL CHEMISTRY I)
+2. BIOLS 102 (GENERAL BIOLOGY I)
+- One course must be selected from Humanities and Social Science 
+*
+
+*
+Year 1 - Semester 1
+Syntax for Courses: Course Code - Course Title - Course Hours (Lecture - Practical - Credits) - Course Type - Pre Requisite - Major GPA
+ITNE 110 - Introduction to Computer and Network Technology - (3-2-3) - MR - No Pre Requisite - Yes
+ITCS 113 - Computer Programming I  - (3-2-3) - CR - No Pre Requisite - Yes
+PHYCS 101 - General Physics I - (3-3-4) - MSR - No Pre Requisite - No
+MATHS 101 - Calculus I - (3-0-3) - CR - No Pre Requisite - No
+ENGL 154 - Language Development I - (3-0-3) - CR - No Pre Requisite - No
+
+Year 1 - Semester 2
+Syntax for Courses: Course Code - Course Title - Course Hours (Lecture - Practical - Credits) - Course Type - Pre Requisite - Major GPA
+ITCE 112 - Digital Design I - (3-2-3) - MR - ITCE 101 - Yes
+ITCS 114 - Computer Programming II - (3-2-3) - CR - ITCS 113 - Yes
+PHYCS 102 - General Physics II - (3-3-4) - MSR - PHYCS 101 - No
+MATHS 102 - Calculus II - (3-0-3) - MSR - MATHS 101 - No
+ENGL 155 - Language Development II - (3-0-3) - CR - ENGL 154 - No
+HRLC 107 - Human Rights - (2-0-2) - UR - No Pre Requisite - No
+
+Year 2 - Semester 3 (Another Name: Year 2 - Semester 1)
+Syntax for Courses: Course Code - Course Title - Course Hours (Lecture - Practical - Credits) - Course Type - Pre Requisite - Major GPA
+ITCE 221 - Electrical Circuit Analysis - (3-2-3) - MR - PHYCS 102 & MATHS 101 - Yes
+ITNE 231 - Computer Networks I - (3-2-3) - MR - ITCS 113 & ITNE 110 - Yes
+ITCS 214 - Data Structures - (3-2-3) - CR - ITCS 114 - Yes
+MATHS 205 - Differential Equations - (3-0-3) - MSR - MATHS 102 - No
+STAT 273 - Probability and Statistics - (3-0-3) - CR - MATHS 101 - No
+GSE XXX - Science Elective - (3-3-4) - GSE - No Pre Requisite - No
+
+Year 2 - Semester 4 (Another Name: Year 2 - Semester 2)
+Syntax for Courses: Course Code - Course Title - Course Hours (Lecture - Practical - Credits) - Course Type - Pre Requisite - Major GPA
+ITNE 240 - Network Operating Systems - (3-2-3) - MR - ITCS 114 & ITNE 231 - Yes
+ITNE 241 - Computer Networks II - (3-2-3) - MR - ITNE 231 & ITCS 114 - Yes
+ITIS 265 - IT Project Management I - (3-2-3) - MR - No Pre Requisite - Yes
+1ITCS 285 - Database Management Systems - (3-2-3) - MR - ITCS 214 - Yes
+ITCS 254 - Discrete Structures I - (3-2-3) - MR - ITCS 113 & MATHS 101 - Yes
+ENGL 219 - Technical Report Writing - (3-0-3) - CR - ENGL 155 - No
+*
+Year 3 - Semester 5 (Another Name: Year 3 - Semester 1)
+Syntax for Courses: Course Code - Course Title - Course Hours (Lecture - Practical - Credits) - Course Type - Pre Requisite - Major GPA
+ITNE 341 - Network Security I - (3-2-3) - MR - ITNE 241 - Yes
+ITNE 350 - Network Management & Administration - (3-2-3) - MR - ITNE 241 - Yes
+ITNE 351 - Routing and Switching - (3-2-3) - MR - ITNE 241 - Yes
+ITNE 352 - Network Programming - (3-2-3) - MR - ITCS 214 & ITNE 231 - Yes
+MATHS 342 - Linear Algebra and Complex Analysis Variables - (3-0-3) - MSR - MATHS 102 - No
+HIST 122 - Modern History of Bahrain and Citizenship - (3-0-3) - UR - No Pre Requisite - No
+
+Year 3 - Semester 6 (Another Name: Year 3 - Semester 2)
+Syntax for Courses: Course Code - Course Title - Course Hours (Lecture - Practical - Credits) - Course Type - Pre Requisite - Major GPA
+ITNE 360 - Wireless Networks - (3-2-3) - MR - ITNE241 - Yes
+ITNE 361 - Network Security II - (3-2-3) - MR - ITNE 341 - Yes
+ITNE 362 - Network Engineering and Design - (3-2-3) - MR - ITNE 351 - Yes
+ITCE 340 - Signals and Systems - (3-2-3) - MR - ITCE 221 & MATHS 205 - Yes
+ITCS 333 - Internet Software Development (3-2-3) - MR - ITCS 285 - Yes
+ARAB 110 - Arabic Language Skills I - (3-0-3) - UR - No Pre Requisite - No
+ 
+Training Requirement
+Syntax for Courses: Course Code - Course Title - Course Hours (Lecture - Practical - Credits) - Course Type - Pre Requisite - Major GPA
+ITNE 400 - Industrial Training - (0-3-1) - CR Training - Pass 85 Credits - Yes
+  
+Year 4 - Semester 7 (Another Name: Year 4 - Semester 1)
+There are two options as follows:
+Cooperative Learning Track
+Syntax for Courses: Course Code - Course Title - Course Hours (Lecture - Practical - Credits) - Course Type - Pre Requisite - Major GPA
+ITNE 401 - Cooperative Learning - (0-27-9) - ME - ITNE 400 & MGPA greater than or equal 2.0 - Yes
+OR Traditional Track
+Syntax for Courses: Course Code - Course Title - Course Hours (Lecture - Practical - Credits) - Course Type - Pre Requisite - Major GPA
+ITNE 402 - Senior Project - (0-6-3) - ME - Passing 85 Cr and ENGL 219 - Yes
+ITNE XXX - ITNE Elective I - (3-2-3) - ME - As per ME list - Yes
+ITNE XXX - ITNE Elective II - (3-2-3) - ME - As per ME list - Yes  
+
+Year 4 - Semester 8 (Another Name: Year 4 - Semester 2)
+Syntax for Courses: Course Code - Course Title - Course Hours (Lecture - Practical - Credits) - Course Type - Pre Requisite - Major GPA
+ITNE 480 - Ethical Hacking - (3-2-3) - MR - ITNE 361 & ITNE 352 - Yes
+ITNE 481 - Cloud Computing  - (3-2-3) - MR - ITNE 241 - Yes
+ITNE XXX - ITNE Elective III - (3-2-3) - ME - As per ME list - Yes 
+ITNE XXX - ITNE Elective IV - (3-2-3) - ME - As per ME list - Yes 
+ISLM 101 - Islamic Culture - (3-0-3) - UR - No Pre Requisite - No
+HU/SS XXX  - Humanities/Social Sciences - (3-0-3) - GSE - No Pre Requisite - No
+*
+Major Elective Courses - All students must select two courses from Major Elective (ME) List. Also, student must choose another 9 credit hours that is either the cooperative learning track, or the traditional track (senior project plus two ME courses)
+Syntax for Courses: Course Code - Course Title - Course Hours (Lecture - Practical - Credits) - Course Type - Pre Requisite - Major GPA
+ITNE 401 - Cooperative Learning - (0-27-9) - ME - ITNE 400 & MGPA greater than or equal 2.0 - Yes
+ITNE 402 - Senior Project - (0-6-3) - ME - Passing 85 Cr and ENGL 219 - Yes
+ITNE 482 - Wireless Sensor Networks - (3-2-3) - ME - ITNE 360 - Yes  
+ITNE 483 - Advanced Network Troubleshooting - (3-2-3) - ME - ITNE 350 - Yes
+ITNE 484 - Data Center Management - (3-2-3) - ME - ITNE 350 & ITNE 341 & ITNE 241 - Yes
+ITNE 485 - WLAN Architecture and Design - (3-2-3) - ME - ITNE 360 - Yes   
+ITNE 486 - Protocol Analysis and Design - (3-2-3) - ME- ITNE 351 & ITNE 241 - Yes
+ITNE 489 - Cyber Security Risk Management and Policies - (3-2-3) - ME - ITNE 361 - Yes
+ITNE 490 - Multimedia Communication - (3-2-3) - ME - ITNE 241 - Yes
+ITNE 491 - Technology Entrepreneurship - (3-2-3) - ME - ITIS 265 - Yes
+ITNE 492 - Selected Topics in Network Engineering 1 - (3-2-3) - ME - As per department Approval - Yes
+ITNE 493 - Selected Topics in Network Engineering 2 - (3-2-3) - As per department Approval - Yes
+ITNE 494 Selected Topics in Network Engineering 3 - (3-2-3) - As per department Approval - Yes
+
+Science Elective Courses - One course must be selected from the two science courses
+Syntax for Courses: Course Code - Course Title - Course Hours (Lecture - Practical - Credits) - Course Type - Pre Requisite - Major GPA
+CHEMY 101 - General Chemistry I - (3-3-4) - GSE - No Pre Requisite - No
+BIOLS 102 - General Biology I - (3-3-4) - GSE - No Pre Requisite - No
+
+
